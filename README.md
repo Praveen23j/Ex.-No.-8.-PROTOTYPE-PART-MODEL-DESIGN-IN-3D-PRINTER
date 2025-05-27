@@ -52,8 +52,8 @@
 
 
 
-### Name:NITHEESH KUMAR B
-### Register Number:212224230189
+### Name:praveen j
+### Register Number:212224230205
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
